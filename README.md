@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @imran-tclglobal
+- 👋 Hi, I’m @Imran Ahmed
+- 💞️ I'm currently working with TCL Global as a Junior Developer
 - 👀 I’m interested in ... Web Application development
-- 🌱 I’m currently learning ... DOTNET Framework
-- 💞️ 
+- 🌱 I’m currently learning ... DOTNET Framewor
 - 📫 Reach me at ... imran.ahk26@gmail.com
 
 <!---
